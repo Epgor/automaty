@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\szkola\3r1sem\lab\automaty\proj\Automat\Automat\bin\Debug\Automat.exe.config
+C:\Users\User\Desktop\szkola\3r1sem\lab\automaty\proj\Automat\Automat\bin\Debug\Automat.exe
+C:\Users\User\Desktop\szkola\3r1sem\lab\automaty\proj\Automat\Automat\bin\Debug\Automat.pdb
+C:\Users\User\Desktop\szkola\3r1sem\lab\automaty\proj\Automat\Automat\obj\Debug\Automat.csprojAssemblyReference.cache
+C:\Users\User\Desktop\szkola\3r1sem\lab\automaty\proj\Automat\Automat\obj\Debug\Automat.Form1.resources
+C:\Users\User\Desktop\szkola\3r1sem\lab\automaty\proj\Automat\Automat\obj\Debug\Automat.Properties.Resources.resources
+C:\Users\User\Desktop\szkola\3r1sem\lab\automaty\proj\Automat\Automat\obj\Debug\Automat.csproj.GenerateResource.cache
+C:\Users\User\Desktop\szkola\3r1sem\lab\automaty\proj\Automat\Automat\obj\Debug\Automat.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\szkola\3r1sem\lab\automaty\proj\Automat\Automat\obj\Debug\Automat.exe
+C:\Users\User\Desktop\szkola\3r1sem\lab\automaty\proj\Automat\Automat\obj\Debug\Automat.pdb
